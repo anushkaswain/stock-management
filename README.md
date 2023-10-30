@@ -1,1 +1,2 @@
-# stock-management
+# STOCK
+web Application 
